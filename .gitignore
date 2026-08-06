@@ -1,0 +1,21 @@
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node.js packages
+node_modules
+package-lock.json
+package.json
+
+# Environment variables
+.env
+
+# Test files
+test.mp3
